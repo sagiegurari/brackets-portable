@@ -11,7 +11,7 @@ All custom extensions you install will also be stored in the portable folder and
 
 You can also replace the brackets installation inside this portable version with any version you like.
 
-The portable launcher uses the portableapps.com installer which also allows you to better integrate with your portableapps.com installation (this is of course optional).
+The portable launcher uses the [portableapps.com](http://portableapps.com/) installer which also allows you to better integrate with your [portableapps.com](http://portableapps.com/) installation (this is of course optional).
 
 For portable chrome support please use the second 'BracketsPortableWithPortableChromeSupport.exe' exe file (requires admin permissions).
 
@@ -23,7 +23,7 @@ In order to build from source there are few steps to be taken:
 * Build exe files - This one actually needs to be handled only once, even if upgrading the brackets.io installation<br>
 To generate the exe files, you must use the portableapps.com launcher generator and point it to the main directory (git root).<br>
 The generator uses the files in the AppInfo directory to generate the exe files.<br>
-You can later on modify the launcher ini files without any need of regerating the exe files.
+You can later on modify the launcher ini files without any need of regenerating the exe files.
 * Build setup.exe - This step needs to be taken for any change (including upgrade of the brackets.io installation)
   * Update the brackets.io files in the Brackets folder
   * Update the version in the appinfo.ini
