@@ -15,6 +15,9 @@ The portable launcher uses the [portableapps.com](http://portableapps.com/) inst
 
 For portable chrome support please use the second 'BracketsPortableWithPortableChromeSupport.exe' exe file (requires admin permissions).
 
+## Download
+In order to download please look at the releases tab at: https://github.com/sagiegurari/brackets-portable/releases/latest and download the exe file.
+
 ## License
 Developed by Sagie Gur-Ari and licensed under the MIT open source license.
 
