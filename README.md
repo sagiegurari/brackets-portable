@@ -1,5 +1,9 @@
 # brackets portable
 
+[![License](https://img.shields.io/github/license/sagiegurari/brackets-portable.svg)](https://github.com/sagiegurari/brackets-portable/blob/master/LICENSE) [![Downloads](https://img.shields.io/github/downloads/sagiegurari/brackets-portable/latest/total.svg)](https://github.com/sagiegurari/brackets-portable/releases/latest)
+
+> Windows portable version of adobe brackets web development editor.
+
 ## Overview
 Brackets is an open source code editor for web designers and front-end developers.
 
