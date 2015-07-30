@@ -1,6 +1,6 @@
 # brackets portable
 
-[![License](https://img.shields.io/github/license/sagiegurari/brackets-portable.svg)](https://github.com/sagiegurari/brackets-portable/blob/master/LICENSE) [![Downloads](https://img.shields.io/github/downloads/sagiegurari/brackets-portable/1.4.0.2/total.svg)](https://github.com/sagiegurari/brackets-portable/releases/latest)
+[![License](https://img.shields.io/github/license/sagiegurari/brackets-portable.svg)](https://github.com/sagiegurari/brackets-portable/blob/master/LICENSE) [![Downloads](https://img.shields.io/github/downloads/sagiegurari/brackets-portable/1.4.0.3/total.svg)](https://github.com/sagiegurari/brackets-portable/releases/latest)
 
 > Windows portable version of adobe brackets web development editor.
 
@@ -16,8 +16,6 @@ All custom extensions you install will also be stored in the portable folder and
 You can also replace the brackets installation inside this portable version with any version you like.
 
 The portable launcher uses the [portableapps.com](http://portableapps.com/) installer which also allows you to better integrate with your [portableapps.com](http://portableapps.com/) installation (this is of course optional).
-
-For portable chrome support please use the second 'BracketsPortableWithPortableChromeSupport.exe' exe file (requires admin permissions).
 
 ## Download
 In order to download please look at the releases tab at: https://github.com/sagiegurari/brackets-portable/releases/latest and download the exe file.
