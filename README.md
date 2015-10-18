@@ -25,11 +25,11 @@ Developed by Sagie Gur-Ari and licensed under the MIT open source license.
 
 ## Building From Source
 In order to build from source there are few steps to be taken:
-* Create BracketsPortable.exe File - This one actually needs to be handled only once, even if upgrading the brackets.io installation<br>
+* Build BracketsPortable.exe - This one actually needs to be handled only once, even if upgrading the brackets.io installation<br>
 To generate the exe files, you must use the portableapps.com launcher generator and point it to the main directory (git root).<br>
 The generator uses the files in the AppInfo directory to generate the exe files.<br>
 You can later on modify the launcher ini files without any need of regenerating the exe files.
-* Build setup.exe - This step needs to be taken for any change (including upgrade of the brackets.io installation)
+* Build BracketsPortable_Release_[version]_English.paf.exe - This step needs to be taken for any change (including upgrade of the brackets.io installation)
   * Update the brackets.io files in the Brackets folder
   * Update the version in the appinfo.ini
   * Use the portableapps.com installer to generate the new installer
