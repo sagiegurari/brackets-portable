@@ -1,6 +1,6 @@
 # brackets portable
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/sagiegurari/brackets-portable/blob/master/LICENSE) [![Downloads](https://img.shields.io/github/downloads/sagiegurari/brackets-portable/1.5.0.1/total.svg)](https://github.com/sagiegurari/brackets-portable/releases/latest)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/sagiegurari/brackets-portable/blob/master/LICENSE) [![Downloads](https://img.shields.io/github/downloads/sagiegurari/brackets-portable/total.svg)](https://github.com/sagiegurari/brackets-portable/releases/latest)
 
 > Windows portable version of adobe brackets web development editor.
 
