@@ -5,7 +5,7 @@
 > Windows portable version of adobe brackets web development editor.
 
 ## Overview
-Brackets is an open source code editor for web designers and front-end developers.
+[Brackets](http://brackets.io/) is an open source code editor for web designers and front-end developers.
 
 With brackets portable you can now 'install' it on a USB and have it with you at all times.
 
