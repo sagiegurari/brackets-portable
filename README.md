@@ -5,6 +5,7 @@
 > Windows portable version of adobe brackets web development editor.
 
 ## Overview
+
 [Brackets](http://brackets.io/) is an open source code editor for web designers and front-end developers.
 
 With brackets portable you can now 'install' it on a USB and have it with you at all times.
@@ -18,17 +19,17 @@ You can also replace the brackets installation inside this portable version with
 The portable launcher uses the [portableapps.com](http://portableapps.com/) installer which also allows you to better integrate with your [portableapps.com](http://portableapps.com/) installation (this is of course optional).
 
 ## Download
+
 In order to download please look at the releases tab at: https://github.com/sagiegurari/brackets-portable/releases/latest and download the exe file.
 
 ## License
+
 Developed by Sagie Gur-Ari and licensed under the MIT open source license.
 
 ## Building From Source
+
 In order to build from source there are few steps to be taken:
-* Build BracketsPortable.exe - This one actually needs to be handled only once, even if upgrading the brackets.io installation<br>
-To generate the exe files, you must use the portableapps.com launcher generator and point it to the main directory (git root).<br>
-The generator uses the files in the AppInfo directory to generate the exe files.<br>
-You can later on modify the launcher ini files without any need of regenerating the exe files.
+* Build BracketsPortable.exe - This one actually needs to be handled only once, even if upgrading the brackets.io installation<br>To generate the exe files, you must use the portableapps.com launcher generator and point it to the main directory (git root).<br>The generator uses the files in the AppInfo directory to generate the exe files.<br>You can later on modify the launcher ini files without any need of regenerating the exe files.
 * Build BracketsPortable_Release_[version]_English.paf.exe - This step needs to be taken for any change (including upgrade of the brackets.io installation)
   * Update the brackets.io files in the Brackets folder
   * Update the version in the appinfo.ini
